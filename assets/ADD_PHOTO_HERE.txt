@@ -1,0 +1,1 @@
+The birthday slideshow currently uses birthday-1.png, birthday-2.png, and birthday-3.png. Update the birthdayPhotos array in index.html to add, remove, or rename slideshow pictures.
